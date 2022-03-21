@@ -1,4 +1,4 @@
-package new_package;
+package com.company;
 
 public class Inregistrare extends MeniuLogare{
     private String username;
